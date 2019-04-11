@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?image=template/img/wang-wei_wangchuan.jpg
 @title[Introduction]
 
 <!--
