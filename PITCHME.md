@@ -17,7 +17,10 @@ Senior Capstone
 @snap[north text-04]
 <br>
 <br>
-*Conway Gilbreth*
+<br>
+<br>
+<br>
+~  *Conway Gilbreth*  ~
 @snapend
 
 @snap[south text-white text-05]
