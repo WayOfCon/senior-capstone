@@ -14,7 +14,7 @@ Senior Capstone
 Conway Gilbreth
 @snapend
 
-@snap[south text-white text-06]
+@snap[south span-100 text-white text-06]
 Considerations in translating Tang Dynasty Chinese poetry
 @snapend
 
