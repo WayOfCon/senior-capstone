@@ -19,7 +19,6 @@ Senior Capstone
 <br>
 <br>
 <br>
-<br>
 ~  *Conway Gilbreth*  ~
 @snapend
 
