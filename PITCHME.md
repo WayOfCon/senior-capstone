@@ -27,7 +27,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 @snap[east span-70]
-<h2>@css[text-blue](context)</h2>
+<h2>@css[text-blue](Context)</h2>
 @snapend
 
 
