@@ -7,19 +7,20 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[north-west]
-**Tang Dynasty Poetry & Art**
+Tang Dynasty Poetry & Art
 @snapend
 
 @snap[north-east]
 Senior Capstone
 @snapend
 
-@snap[north]
+@snap[north text-04]
 <br>
-Conway Gilbreth
+<br>
+*Conway Gilbreth*
 @snapend
 
-@snap[south span-150 text-white text-05]
+@snap[south text-white text-05]
 Considerations in translating Tang Dynasty Chinese poetry
 @snapend
 
