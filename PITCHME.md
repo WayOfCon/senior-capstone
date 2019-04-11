@@ -13,7 +13,7 @@ Senior Capstone<br>*Tang Dynasty Poetry*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Considerations in translating Tang Dynasty Chinese poetry
 @snapend
 
 ---
