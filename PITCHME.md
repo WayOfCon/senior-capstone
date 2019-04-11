@@ -15,7 +15,6 @@ Senior Capstone
 @snapend
 
 @snap[north]
-<br>
 Conway Gilbreth
 @snapend
 
