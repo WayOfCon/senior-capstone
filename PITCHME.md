@@ -9,7 +9,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+Senior Capstone<br>*Tang Dynasty Poetry*
 @snapend
 
 @snap[south-west byline text-white text-06]
