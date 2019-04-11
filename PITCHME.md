@@ -14,11 +14,10 @@ Tang Dynasty Poetry & Art
 Senior Capstone
 @snapend
 
-<!--
 @snap[north]
+<br>
 Conway Gilbreth
 @snapend
--->
 
 @snap[south span-150 text-white text-06]
 Considerations in translating Tang Dynasty Chinese poetry
