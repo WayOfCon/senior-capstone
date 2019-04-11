@@ -15,7 +15,7 @@ Senior Capstone
 @snapend
 
 @snap[south text-white text-05]
-Considerations in translating Tang Dynasty Chinese poetry
+Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
 ---
