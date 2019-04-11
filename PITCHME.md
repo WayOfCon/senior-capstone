@@ -7,13 +7,8 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 # Tang Dynasty Poetry & Art
-
-@snap[north]
-<br>
-Senior Capstone
-<br>
-Conway Gilbreth
-@snapend
+## Senior Capstone
+### Conway Gilbreth
 
 @snap[south span-150 text-white text-06]
 Considerations in translating Tang Dynasty Chinese poetry
