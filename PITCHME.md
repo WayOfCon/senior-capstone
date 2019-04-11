@@ -6,9 +6,9 @@ Step 2. Start adding your own custom slide content.
 Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
-# Tang Dynasty Poetry & Art
-## Senior Capstone
-### Conway Gilbreth
+### Tang Dynasty Poetry & Art
+#### Senior Capstone
+##### Conway Gilbreth
 
 @snap[south span-150 text-white text-06]
 Considerations in translating Tang Dynasty Chinese poetry
