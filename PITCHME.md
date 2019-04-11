@@ -1,5 +1,5 @@
 ---?image=template/img/wang-wei_wangchuan.jpg
-@snap[title]
+@snap[north-west]
 Tang Dynasty Poetry & Art
 @snapend
 
