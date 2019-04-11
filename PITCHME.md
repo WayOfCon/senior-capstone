@@ -24,24 +24,6 @@ Senior Capstone
 Considerations in translating Tang Dynasty Chinese poetry
 @snapend
 
----
-@title[Slide Markdown]
-
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
-
----
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
 ---?include=template/md/split-screen/PITCHME.md
 
