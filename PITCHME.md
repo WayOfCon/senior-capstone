@@ -28,6 +28,52 @@ Considerations in translating Tang Dynasty Chinese poetry
 @snapend
 
 
+---
+Historical context
+
+- dynasty before
+- dynasty after
+- dynasty in comparison to all
+  - golden age
+
+---
+Historical context
+
+- golden age
+  - poetry
+  - art
+
+---
+Wang wei exemplar
+
+- decided to focus on one person because tang dynasty not just about poetry
+  - complete oeuvre
+    - wang wei as a artist, poet, and the inseparable connection between the two
+      - pioneered scholars painting?
+        - black and white, "breaking the brush"?
+
+---
+art (wang wei)
+
+- probably more than one slide
+
+---
+difficulties in understanding/translating chinese classical poetry in general
+
+- needs probably a few slides
+
+---
+looking at one or two specific poems and breaking them down, explaining difficulties along the way
+
+- a handful of slides per poem
+
+---
+wrap-up
+
+---
+questions
+
+
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
