@@ -19,11 +19,11 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 
----?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+---?image=template/img/bg/blue.jpg&position=left&size=50% 100%
 @title[Sidebar + Heading]
 
-@snap[west text-white]
-@size[3em](Historical)
+@snap[west]
+<h2>@css[text-white](Historical)</h2>
 @snapend
 
 @snap[east span-70]
@@ -33,11 +33,11 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 
 +++?color=black
 @snap[west span-45]
-# Step by Step
+# Time line
 @snapend
 
 @snap[north-east span-60 fragment]
-@box[bg-purple text-white box-narrow-padding](隋朝     Suí Dynasty<br>581–618 CE)
+@box[bg-purple text-white box-narrow-padding](隋朝  Suí Dynasty#581–618 CE)
 @snapend
 
 @snap[east span-60 fragment]
