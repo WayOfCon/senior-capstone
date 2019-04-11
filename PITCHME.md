@@ -18,6 +18,43 @@ Senior Capstone
 Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
+
++++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
+@size[3em](1.)
+@snapend
+
+@snap[east span-70]
+<h2>Historical @css[text-blue](context)</h2>
+@snapend
+
+
++++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
+@size[3em](1.)
+@snapend
+
+@snap[east span-70]
+<h2>Historical @css[text-blue](context)</h2>
+@snapend
+
+
++++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+@title[Sidebar + Heading]
+
+@snap[west text-white]
+@size[3em](1.)
+@snapend
+
+@snap[east span-70]
+<h2>Historical @css[text-blue](context)</h2>
+@snapend
+
+
 ---
 Historical context
 
@@ -26,12 +63,14 @@ Historical context
 - dynasty in comparison to all
   - golden age
 
+
 ---
 Historical context
 
 - golden age
   - poetry
   - art
+
 
 ---
 Wang wei exemplar
@@ -42,23 +81,28 @@ Wang wei exemplar
       - pioneered scholars painting?
         - black and white, "breaking the brush"?
 
+
 ---
 art (wang wei)
 
 - probably more than one slide
+
 
 ---
 difficulties in understanding/translating chinese classical poetry in general
 
 - needs probably a few slides
 
+
 ---
 looking at one or two specific poems and breaking them down, explaining difficulties along the way
 
 - a handful of slides per poem
 
+
 ---
 wrap-up
+
 
 ---
 questions
