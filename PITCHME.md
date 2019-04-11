@@ -49,7 +49,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 @snap[south-west template-note text-white]
-Boxed text fragments template.
+Replace me
 @snapend
 
 
