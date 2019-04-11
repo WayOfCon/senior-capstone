@@ -1,11 +1,4 @@
 ---?image=template/img/wang-wei_wangchuan.jpg
-<!--
-Tip! Get started with this template as follows:
-Step 1. Delete the contents of this PITCHME.md file.
-Step 2. Start adding your own custom slide content.
-Step 3. Copy slide markdown snippets from template/md directory as needed.
--->
-
 @snap[north-west]
 Tang Dynasty Poetry & Art
 @snapend
@@ -18,14 +11,12 @@ Senior Capstone
 <br>
 <br>
 <br>
-<br>
 ~  *Conway Gilbreth*  ~
 @snapend
 
 @snap[south text-white text-05]
 Considerations in translating Tang Dynasty Chinese poetry
 @snapend
-
 
 ---
 Historical context
