@@ -6,11 +6,11 @@ Step 2. Start adding your own custom slide content.
 Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
-@snap[northwest]
+@snap[north-west]
 Tang Dynasty Poetry & Art
 @snapend
 
-@snap[northeast]
+@snap[north-east]
 Senior Capstone
 @snapend
 
