@@ -19,15 +19,15 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 
-+++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+---?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@size[3em](1.)
+@size[3em](Historical)
 @snapend
 
 @snap[east span-70]
-<h2>Historical @css[text-blue](context)</h2>
+<h2>@css[text-blue](context)</h2>
 @snapend
 
 
