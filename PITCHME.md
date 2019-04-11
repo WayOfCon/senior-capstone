@@ -8,11 +8,11 @@ Step 2. Start adding your own custom slide content.
 Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
-@snap[west text-25 text-bold text-white]
-Senior Capstone<br>*Tang Dynasty Poetry*
-@snapend
+# Tang Dynasty Poetry
+## Senior Capstone
+### Conway Gilbreth
 
-@snap[south-west byline text-white text-06]
+@snap[south text-white text-06]
 Considerations in translating Tang Dynasty Chinese poetry
 @snapend
 
