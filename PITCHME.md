@@ -1,6 +1,4 @@
 ---?image=template/img/wang-wei_wangchuan.jpg
-@title[Introduction]
-
 <!--
 Tip! Get started with this template as follows:
 Step 1. Delete the contents of this PITCHME.md file.
