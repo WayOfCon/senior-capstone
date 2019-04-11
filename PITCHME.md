@@ -14,7 +14,7 @@ Tang Dynasty Poetry & Art
 Senior Capstone
 @snapend
 
-@snap[north text-04]
+@snap[north text-06]
 <br>
 <br>
 <br>
