@@ -7,7 +7,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[north-west]
-Tang Dynasty Poetry & Art
+**Tang Dynasty Poetry & Art**
 @snapend
 
 @snap[north-east]
