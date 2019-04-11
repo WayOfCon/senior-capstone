@@ -45,7 +45,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 @snap[south-east span-60 fragment]
-@box[bg-pink text-white box-narrow-padding](Step 3.#Cupidatat non proident sunt in culpa officia veniam quis.)
+@box[bg-pink text-white box-narrow-padding](Five Dynasties#907–960)
 @snapend
 
 @snap[south-west template-note text-white]
