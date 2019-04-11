@@ -41,7 +41,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 @snap[east span-60 fragment]
-@box[bg-orange text-white box-narrow-padding](Step 2.#Sed do eiusmod tempor incididunt ut labore ut enim ad.)
+@box[bg-orange text-white box-narrow-padding](唐朝  Táng Dynasty#618–906 CE)
 @snapend
 
 @snap[south-east span-60 fragment]
