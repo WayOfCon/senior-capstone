@@ -32,24 +32,20 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 
 
 +++?color=black
-@snap[west span-45]
+@snap[west span-60]
 # Time line
 @snapend
 
-@snap[north-east span-60 fragment]
+@snap[north-east span-45 fragment]
 @box[bg-purple text-white box-narrow-padding](隋朝  Suí Dynasty#581–618 CE)
 @snapend
 
-@snap[east span-60 fragment]
+@snap[east span-45 fragment]
 @box[bg-orange text-white box-narrow-padding](唐朝  Táng Dynasty#618–906 CE)
 @snapend
 
-@snap[south-east span-60 fragment]
-@box[bg-pink text-white box-narrow-padding](Five Dynasties#907–960)
-@snapend
-
-@snap[south-west template-note text-white]
-Replace me
+@snap[south-east span-45 fragment]
+@box[bg-pink text-white box-narrow-padding](Five Dynasties#907–960 CE)
 @snapend
 
 
