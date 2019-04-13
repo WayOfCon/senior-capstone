@@ -114,8 +114,6 @@ questions
 
 ---?include=template/md/sidebox/PITCHME.md
 
----?include=template/md/code-presenting/PITCHME.md
-
 ---?include=template/md/header-footer/PITCHME.md
 
 ---?include=template/md/quotation/PITCHME.md
