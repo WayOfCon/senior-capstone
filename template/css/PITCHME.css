@@ -94,16 +94,6 @@
 
 /** Quotation Template Styles ***/
 
-/** Announcements Template Styles ***/
-
-.announce-big-news {
-  font-size: 7em !important;
-}
-
-.announce-coming-soon {
-  font-size: 6.5em !important;
-}
-
 /** About Template Styles **/
 
 .about-team-pic img {
@@ -116,48 +106,6 @@
 
 .about-team-pic-center img {
   width: 70%;
-}
-
-/** Wrap-Up Template Styles **/
-
-.contact-name {
-  font-size: 0.6em !important;
-  font-weight: 800 !important;
-  text-transform: uppercase !important;
-  font-family: Arial, Helvetica, sans-serif !important;
-}
-
-.contact-email {
-  font-size: 0.5em !important;
-  font-weight: 600 !important;
-}
-
-.contact-links {
-  color: #00008B !important;
-}
-
-.twitter-handle {
-  font-size: 0.5em !important;
-  font-weight: bolder !important;
-  vertical-align: middle !important;
-}
-
-.git-handle {
-  font-size: 0.5em !important;
-  font-weight: bolder !important;
-  vertical-align: middle !important;
-}
-
-.pad-right-icon {
-  padding-right: 0.4em;
-}
-
-.pad-left-icon {
-  padding-left: 0.4em;
-}
-
-.sign-off h2, .sign-off h3 {
-  color: white;
 }
 
 /** Final Slide Styles */
