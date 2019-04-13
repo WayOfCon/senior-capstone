@@ -19,27 +19,6 @@
 <br>Boxed text with title template.
 @snapend
 
-+++?color=black
-
-@snap[west span-45]
-# Step by Step
-@snapend
-
-@snap[north-east span-60 fragment]
-@box[bg-purple text-white box-narrow-padding](Step 1.#Lorem ipsum dolor sit amet, consectetur adipiscing elit.)
-@snapend
-
-@snap[east span-60 fragment]
-@box[bg-orange text-white box-narrow-padding](Step 2.#Sed do eiusmod tempor incididunt ut labore ut enim ad.)
-@snapend
-
-@snap[south-east span-60 fragment]
-@box[bg-pink text-white box-narrow-padding](Step 3.#Cupidatat non proident sunt in culpa officia veniam quis.)
-@snapend
-
-@snap[south-west template-note text-white]
-Boxed text fragments template.
-@snapend
 
 +++
 
