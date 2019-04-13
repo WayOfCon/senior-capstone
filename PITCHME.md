@@ -55,7 +55,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 
-+++?color=orange
++++?color=#F26225
 @snap[north-west]
 ### 唐朝  Táng Dynasty
 @snapend
