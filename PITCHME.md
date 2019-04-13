@@ -45,7 +45,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 @snap[south-east span-45 fragment]
-@box[bg-pink text-white box-narrow-padding](Five Dynasties#907–960 CE)
+@box[bg-pink text-white box-narrow-padding](五朝  Five Dynasties#907–960 CE)
 @snapend
 
 
