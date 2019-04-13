@@ -61,7 +61,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 
-+++?color=pink
++++?color=#E11E5E
 @snap[north-west]
 ### 五朝  Five Dynasties
 @snapend
