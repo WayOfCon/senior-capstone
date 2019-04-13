@@ -1,12 +1,4 @@
 +++
-@title[Big News Teaser]
-
-@snap[midpoint announce-big-news]
-Questions?
-@snapend
-
-
-+++
 @title[New Release Teaser]
 
 # Questions?
@@ -16,5 +8,9 @@ Questions?
 @title[Coming Soon Teaser]
 
 @snap[midpoint announce-coming-soon text-white]
-Questions?
+Questions
+@snapend
+
+@snap[south text-white]
+?
 @snapend
