@@ -49,7 +49,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snapend
 
 
-+++?color=purple
++++?color=#623AB1
 @snap[north-west]
 ### 隋朝  Suí Dynasty
 @snapend
