@@ -1,7 +1,7 @@
 +++
 @title[New Release Teaser]
 
-# Questions?
+## Questions?
 
 
 +++?color=linear-gradient(to top, #ffb347, #ffcc33)
