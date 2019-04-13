@@ -98,8 +98,11 @@ looking at one or two specific poems and breaking them down, explaining difficul
 wrap-up
 
 
----
-questions
+---?color=linear-gradient(to top, #ffb347, #ffcc33)
+
+@snap[midpoint text-white]
+Questions?
+@snapend
 
 
 ---?include=template/md/split-screen/PITCHME.md
@@ -121,5 +124,3 @@ questions
 ---?include=template/md/announcement/PITCHME.md
 
 ---?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
