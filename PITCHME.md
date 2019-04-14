@@ -4,18 +4,11 @@
 <br>
 <h3>@css[text-black](Senior Capstone)</h3>
 <br>
-~  *Conway Gilbreth*  ~
+<h4>@css[text-black](Conway Gilbreth)</h4>
 @snapend
 
 @snap[south-east span-30 text-black text-05]
 Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
-@snapend
-
-@snap[north text-black]
-<br>
-<br>
-<br>
-~  *Conway Gilbreth*  ~
 @snapend
 
 
