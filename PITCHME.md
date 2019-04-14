@@ -1,13 +1,13 @@
 ---?image=template/img/Wang_Wei_Portrait.png&size=contain&color=white
 @snap[north-west span-33]
-<h3>@css[text-black](Tang Dynasty Poetry & Art)</h2>
+<h3>@css[text-black](Tang Dynasty Poetry & Art)</h3>
 <br>
-<h4>@css[text-black](Senior Capstone)</h3>
+<h4>@css[text-black](Senior Capstone)</h4>
 <br>
-<h5>@css[text-black](Conway Gilbreth)</h4>
+<h5>@css[text-black](Conway Gilbreth)</h5>
 @snapend
 
-@snap[south-east span-30 text-black text-05]
+@snap[south-east span-28 text-black text-05]
 Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
