@@ -64,7 +64,7 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 Note:
 
 - Leading up to the Suí Dynasty:
-- Collapse of the Hàn dynasty in 220 A.D.
+- Collapse of the Hàn dynasty in 220 CE
 - 3 centuries of division and fragmentation
 - Then, unified under the Suí dynasty
 - Only 37 years because:
@@ -83,9 +83,18 @@ Note:
 <br>
 @ul[list-bullets-circles]
 - **Táng**
-- .
+- An Lushan rebellion
+- Short lived restoration
+- Decline into anarchy
 @ulend
 @snapend
+
+Note:
+
+- An Lushan rebellion mid-8th century
+- not until 818 CE emperor Xianzong restored authority
+- by mid-9th century government power grew weaker
+- fractured into independent kingdoms in 907 CE
 
 
 +++?color=#E11E5E
