@@ -60,9 +60,23 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 <br>
 @ul[list-bullets-circles]
 - **Before**
-- .
+- Leading up
+- 漢朝 collapses
+- Unified under Suí Dynasty
+- Very Short
+- Groundwork
 @ulend
 @snapend
+
+Note:
+
+- Leading up to the Suí Dynasty:
+- Collapse of the Hàn dynasty in 220 A.D.
+- 3 centuries of division and fragmentation
+- Then, unified under the Suí dynasty
+- Only 37 years because:
+- second Sui emperor engaged in unsuccessful wars and vast public works, such as the Grand Canal linking the north and south, that exhausted the people and caused them to revolt.
+- political and governmental institutions of the sui dynasty lay the groundwork for tang dynasty
 
 
 +++?color=#F26225
