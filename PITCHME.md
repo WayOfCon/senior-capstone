@@ -11,7 +11,7 @@
 Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
-@snap[north text-black text-06]
+@snap[north text-black]
 <br>
 <br>
 <br>
