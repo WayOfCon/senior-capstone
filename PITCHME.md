@@ -7,8 +7,8 @@
 ~  *Conway Gilbreth*  ~
 @snapend
 
-@snap[north-east span-33 text-black]
-...
+@snap[south-east span-33 text-black text-05]
+Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
 @snap[north text-black text-06]
@@ -16,10 +16,6 @@
 <br>
 <br>
 ~  *Conway Gilbreth*  ~
-@snapend
-
-@snap[south text-black text-05]
-Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
 
