@@ -121,6 +121,11 @@ Note:
 
 
 ---
+@snap[midpoint text-gold]
+# Táng
+@snapend
+
+---
 Historical context
 
 - dynasty before
