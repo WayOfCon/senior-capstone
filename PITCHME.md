@@ -1,4 +1,4 @@
----?image=template/img/Wang_Wei_Portrait.png&postion=left&size=auto 100%&color=white
+---?image=template/img/Wang_Wei_Portrait.png&postion=left&size=auto 100%
 @snap[north-west]
 Tang Dynasty Poetry & Art
 @snapend
