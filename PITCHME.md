@@ -59,7 +59,8 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snap[west list-content-verbose span-100]
 <br>
 @ul[list-bullets-circles]
-- ...
+- **Before**
+- .
 @ulend
 @snapend
 
@@ -74,7 +75,8 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snap[west list-content-verbose span-100]
 <br>
 @ul[list-bullets-circles]
-- ...
+- **Táng**
+- .
 @ulend
 @snapend
 
@@ -89,7 +91,8 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 @snap[west list-content-verbose span-100]
 <br>
 @ul[list-bullets-circles]
-- ...
+- **After**
+- .
 @ulend
 @snapend
 
