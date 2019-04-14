@@ -50,18 +50,24 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 
 
 +++?color=#623AB1
+@title[Title + List Fragments]
+
 @snap[north-west]
 ### 隋朝  Suí Dynasty
 @snapend
 
 
 +++?color=#F26225
+@title[Title + List Fragments]
+
 @snap[north-west]
 ### 唐朝  Táng Dynasty
 @snapend
 
 
 +++?color=#E11E5E
+@title[Title + List Fragments]
+
 @snap[north-west]
 ### 五朝  Five Dynasties
 @snapend
