@@ -1,10 +1,10 @@
 ---?image=template/img/Wang_Wei_Portrait.png&size=contain&color=white
 @snap[north-west span-33]
-<h2>@css[text-black](Tang Dynasty Poetry & Art)</h2>
+<h3>@css[text-black](Tang Dynasty Poetry & Art)</h2>
 <br>
-<h3>@css[text-black](Senior Capstone)</h3>
+<h4>@css[text-black](Senior Capstone)</h3>
 <br>
-<h4>@css[text-black](Conway Gilbreth)</h4>
+<h5>@css[text-black](Conway Gilbreth)</h4>
 @snapend
 
 @snap[south-east span-30 text-black text-05]
