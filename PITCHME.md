@@ -3,18 +3,18 @@
 Tang Dynasty Poetry & Art
 @snapend
 
-@snap[north-east]
+@snap[north-east text-black]
 Senior Capstone
 @snapend
 
-@snap[north text-06]
+@snap[north text-black text-06]
 <br>
 <br>
 <br>
 ~  *Conway Gilbreth*  ~
 @snapend
 
-@snap[south text-white text-05]
+@snap[south text-black text-05]
 Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
 @snapend
 
