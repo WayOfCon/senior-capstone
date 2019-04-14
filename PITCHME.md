@@ -1,5 +1,5 @@
 ---?image=template/img/Wang_Wei_Portrait.png&size=contain&color=white
-@snap[north-west span-33 text-black]
+@snap[north-west span-33]
 ## Tang Dynasty Poetry & Art
 <br>
 ### Senior Capstone
