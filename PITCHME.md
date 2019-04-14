@@ -1,10 +1,10 @@
 ---?image=template/img/Wang_Wei_Portrait.png&size=contain&color=white
-@snap[north-west text-black]
-Tang Dynasty Poetry & Art
+@snap[north-west span-33 text-black]
+# Tang Dynasty Poetry & Art
 @snapend
 
-@snap[north-east text-black]
-Senior Capstone
+@snap[north-east span-33 text-black]
+## Senior Capstone
 @snapend
 
 @snap[north text-black text-06]
