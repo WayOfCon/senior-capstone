@@ -9,6 +9,9 @@
 
 @snap[south-east span-25 text-black text-05]
 Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
+<br>
+<br>
+<br>
 @snapend
 
 
