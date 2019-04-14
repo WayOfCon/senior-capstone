@@ -1,8 +1,8 @@
 ---?image=template/img/Wang_Wei_Portrait.png&size=contain&color=white
 @snap[north-west span-33 text-black]
-# Tang Dynasty Poetry & Art
+## Tang Dynasty Poetry & Art
 <br>
-## Senior Capstone
+### Senior Capstone
 <br>
 ~  *Conway Gilbreth*  ~
 @snapend
