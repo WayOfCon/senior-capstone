@@ -169,14 +169,6 @@ Note:
 
 
 ---
-Historical context
-
-- golden age
-  - poetry
-  - art
-
-
----
 Wang wei exemplar
 
 - decided to focus on one person because tang dynasty not just about poetry
@@ -190,6 +182,10 @@ Wang wei exemplar
 art (wang wei)
 
 - probably more than one slide
+
+
+---
+poetry (wang wei)
 
 
 ---
