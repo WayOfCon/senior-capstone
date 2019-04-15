@@ -178,10 +178,7 @@ wrap-up
 
 
 ---?color=linear-gradient(to top, #ffb347, #ffcc33)
-
-@snap[midpoint text-white]
 # Questions?
-@snapend
 
 
 ---?include=template/md/split-screen/PITCHME.md
