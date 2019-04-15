@@ -121,7 +121,7 @@ Note:
 
 Note:
 
--
+- .
 
 
 @snap[north-west]
@@ -142,7 +142,7 @@ Note:
 
 Note:
 
--
+- .
 
 
 +++?color=#E11E5E
