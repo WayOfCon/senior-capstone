@@ -90,14 +90,59 @@ Note:
 @snap[west list-content-verbose span-100]
 <br>
 @ul[list-bullets-circles]
-- **Táng**
-- .
+- **7th Century**
+- Social change
 @ulend
 @snapend
 
 Note:
 
-- ..
+- social upheaval
+- official examination system
+- educated men without family connections can serve as government officials
+- new social elite gradually replaced the old aristocracy
+
+
+@snap[north-west]
+### 唐朝  Táng Dynasty
+@snapend
+
+@snap[west list-content-verbose span-100]
+<br>
+@ul[list-bullets-circles]
+- **Early 8th Century**
+- .
+@ulend
+@snapend
+
+@snap[south-east template-note text-white]
+*again*
+@snapend
+
+Note:
+
+-
+
+
+@snap[north-west]
+### 唐朝  Táng Dynasty
+@snapend
+
+@snap[west list-content-verbose span-100]
+<br>
+@ul[list-bullets-circles]
+- **Late 8th Century**
+- .
+@ulend
+@snapend
+
+@snap[south-east template-note text-white]
+*still*
+@snapend
+
+Note:
+
+-
 
 
 +++?color=#E11E5E
