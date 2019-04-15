@@ -132,15 +132,6 @@ Note:
 ---
 Historical context
 
-- dynasty before
-- dynasty after
-- dynasty in comparison to all
-  - golden age
-
-
----
-Historical context
-
 - golden age
   - poetry
   - art
