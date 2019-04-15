@@ -208,10 +208,10 @@ looking at one or two specific poems and breaking them down, explaining difficul
 wrap-up
 
 
-+++?image=template/img/moon.jpg&size=cover
++++?image=template/img/wang-wei_wangchuan.jpg&size=cover
 @title[Quote Attributed]
 
-@snap[east text-white span-55]
+@snap[point text-white span-55]
 @quote[a cultural efflorescence of cosmopolitan style](The MET)
 @snapend
 
