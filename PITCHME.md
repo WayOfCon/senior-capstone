@@ -169,6 +169,14 @@ looking at one or two specific poems and breaking them down, explaining difficul
 wrap-up
 
 
++++?image=template/img/moon.jpg&size=cover
+@title[Quote Attributed]
+
+@snap[east text-white span-55]
+@quote[a cultural efflorescence of cosmopolitan style](The MET)
+@snapend
+
+
 ---?color=linear-gradient(to top, #ffb347, #ffcc33)
 
 @snap[midpoint text-white]
