@@ -17,7 +17,6 @@ Considerations in translating Tang Dynasty Chinese poetry in context of art of t
 <br>
 <br>
 <br>
-<br>
 @snapend
 
 
