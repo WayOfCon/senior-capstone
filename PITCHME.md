@@ -161,7 +161,7 @@ Note:
 
 
 +++?image=template/img/tang_dynasty_china_modern_overlay.jpg
-@transition[fade-in slide-out]
+@transition[fade]
 
 
 ---
