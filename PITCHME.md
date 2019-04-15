@@ -102,6 +102,9 @@ Note:
 - new social elite gradually replaced the old aristocracy
 
 
++++?color=#F26225
+@title[Title + List Fragments]
+
 @snap[north-west]
 ### 唐朝  Táng Dynasty
 @snapend
@@ -122,6 +125,9 @@ Note:
 
 - .
 
+
++++?color=#F26225
+@title[Title + List Fragments]
 
 @snap[north-west]
 ### 唐朝  Táng Dynasty
