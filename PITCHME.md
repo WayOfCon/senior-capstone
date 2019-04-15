@@ -127,9 +127,8 @@ Note:
 
 
 ---
-@snap[midpoint text-gold]
-# Táng
-@snapend
+# @color[gold](Táng)
+
 
 ---
 Historical context
