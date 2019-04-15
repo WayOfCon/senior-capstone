@@ -148,6 +148,12 @@ Note:
 - fractured into independent kingdoms in 907 CE
 
 
++++?image=template/img/tang_dynasty_china.png
+
+
++++?image=template/img/tang_dynasty_china_modern_overlay.jpg
+
+
 ---
 # @color[gold](Táng)
 
