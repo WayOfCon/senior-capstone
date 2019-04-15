@@ -211,7 +211,7 @@ wrap-up
 +++?image=template/img/wang-wei_wangchuan.jpg&size=cover
 @title[Quote Attributed]
 
-@snap[point text-white span-55]
+@snap[midpoint text-white span-55]
 @quote[a cultural efflorescence of cosmopolitan style](The MET)
 @snapend
 
