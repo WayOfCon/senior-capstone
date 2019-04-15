@@ -236,6 +236,4 @@ wrap-up
 
 ---?include=template/md/quotation/PITCHME.md
 
----?include=template/md/announcement/PITCHME.md
-
 ---?include=template/md/about/PITCHME.md
