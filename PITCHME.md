@@ -123,26 +123,6 @@ Note:
 - ...
 
 
-+++?color=#F26225
-@title[Title + List Fragments]
-
-@snap[north-west]
-### 唐朝  Táng Dynasty
-@snapend
-
-@snap[west list-content-verbose span-100]
-<br>
-@ul[list-bullets-circles]
-- **Late 8th Century**
-- More adventurous in technique was the somewhat eccentric late 8th-century painter Zhang Zao (張璪), who produced dramatic tonal and textural contrasts, as when he painted simultaneously, with one brush in each hand, two branches of a tree, one moist and flourishing, the other desiccated and dead. This new freedom with the brush was carried to extremes by such painters of the middle to late Tang as Wang Qia (王洽, also known as Wang Mo) and Gu Kuang (顧況), southern Chinese Daoists who “splashed ink” (also transliterated as pomo 潑墨 but written with different characters than “broken ink”) onto the silk in a manner suggestive of 20th-century “Action painters” such as Jackson Pollock. The intention of these ink-splashers was philosophical and religious as well as artistic: it was written at the time that their spontaneous process was designed to imitate the divine process of creation. Their semifinished products, in which the artistic process was fully revealed and the subject matter had to be discerned by the viewer, suggested a Daoist philosophical skepticism. These techniques marked the emergence of a trend toward eccentricity in brushwork that had free rein in periods of political and social chaos. They were subsequently employed by painters of the southern “Sudden” school of Chan (Zen) Buddhism, which held that enlightenment was a spontaneous, irrational experience that could be suggested in painting only by a comparable spontaneity in the brushwork. Chan painting flourished particularly in Chengdu, the capital of the petty state of Shu, to which many artists went as refugees from the chaotic north in the last years before the Tang dynasty fell.
-@ulend
-@snapend
-
-Note:
-
-- ...
-
-
 +++?color=#E11E5E
 @title[Title + List Fragments]
 
