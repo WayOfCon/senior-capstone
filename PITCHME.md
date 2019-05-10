@@ -1,14 +1,17 @@
 ---?image=template/img/Wang_Wei_Portrait.png&size=contain&color=white
-@snap[north-west span-25]
-<h3>@css[text-black](Tang Dynasty Poetry & Art)</h3>
+@snap[north-west span-20]
+<h4>@css[text-black](Tang Dynasty Art)</h4>
 <br>
-<h4>@css[text-black](Senior Capstone)</h4>
-<br>
-<h5>@css[text-black](Conway Gilbreth)</h5>
 @snapend
 
-@snap[south-east span-25 text-black text-05]
-Considerations in translating Tang Dynasty Chinese poetry in context of art of the same period
+@snap[south-west span-20]
+<h5>@css[text-black](Senior Capstone)</h5>
+<br>
+<h6>@css[text-black](Conway Gilbreth)</h6>
+@snapend
+
+@snap[south-east span-20 text-black text-05]
+The Tang Dynasty and the techniques and literary significance of Wang Wei's paintings
 <br>
 <br>
 <br>
@@ -207,9 +210,16 @@ Note:
 @snap[east list-content-verbose span-40]
 <br>
 @ul[list-bullets-circles]
-- ...
+- **Technique**
+- 破墨法
 @ulend
 @snapend
+
+Note:
+
+- why Snowy Stream so visually appealing
+- Pòmò fǎ
+-
 
 
 ---
