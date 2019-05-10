@@ -203,7 +203,7 @@ Note:
 - fell in love with his art
 
 
----
++++?image=template/img/wang-wei_snowy-stream_(雪溪圖).jpg
 @snap[west text-white span-40]
 @quote[倡導單純地以墨色作畫的技法，首創「破墨法」，趁墨色未乾時，將濃、淡墨互破，相互滲透掩映，以達到鮮活的效果。](羅芙莉)
 @snapend
