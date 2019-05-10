@@ -212,20 +212,23 @@ Note:
 <br>
 @ul[list-bullets-circles]
 - **Technique**
-- 破墨法
+- 破墨
+- 'breaking the ink'
 @ulend
 @snapend
 
 Note:
 
 - why Snowy Stream so visually appealing
-- Pòmò fǎ
--
+- Pòmò
+- breaking the ink
+- ink wash technique
+- 'mixing dilluted and saturated paint' = texture
+
 
 
 ---
 - 倡導單純地以墨色作畫的技法，首創「破墨法」，趁墨色未乾時，將濃、淡墨互破，相互滲透掩映，以達到鮮活的效果。
-'mixing dilluted and saturated paint'
 po mo 'breaking the ink'
 - think the variance
 - pioneered scholars painting?
