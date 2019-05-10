@@ -189,7 +189,7 @@ Note:
 
 ---
 @snap[west span-50]
-![Snowy Stream](template/img/wang-wei\_snowy-stream\ (雪溪圖).jpg)
+![Snowy Stream](template/img/wang-wei_snowy-stream_(雪溪圖).jpg)
 @snapend
 
 @snap[east span-50 text-white text-05]
