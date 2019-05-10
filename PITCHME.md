@@ -169,10 +169,9 @@ Note:
 
 
 ---
-# Poetry
+# Wang Wei
 
 @ul[list-bullets-circles]
-- Wang Wei
 - poetry
 @ulend
 
@@ -185,7 +184,7 @@ Note:
 
 ---
 @snap[west span-50]
-image=template/img/wang-wei_snowy-stream (雪溪圖).jpg
+![Snowy Stream](template/img/wang-wei_snowy-stream (雪溪圖).jpg)
 @snapend
 
 @snap[east span-50 text-white text-05]
@@ -200,6 +199,9 @@ Note:
 
 
 ---
+- 倡導單純地以墨色作畫的技法，首創「破墨法」，趁墨色未乾時，將濃、淡墨互破，相互滲透掩映，以達到鮮活的效果。
+'mixing dilluted and saturated paint'
+po mo 'breaking the ink'
 - pioneered scholars painting?
   - black and white, "breaking the brush"?
 
