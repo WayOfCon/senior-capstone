@@ -111,6 +111,7 @@ Note:
 
 @snap[west list-content-verbose span-100]
 <br>
+<br>
 @ul[list-bullets-circles]
 - **Early 8th Century**
 - peak of wealth and power
@@ -179,7 +180,7 @@ Note:
 
 - Knew he's my guy
 - love his poetry
-- but then I saw this
+- but then...
 
 
 ---
@@ -199,9 +200,23 @@ Note:
 
 
 ---
+@snap[west text-white span-40]
+@quote[倡導單純地以墨色作畫的技法，首創「破墨法」，趁墨色未乾時，將濃、淡墨互破，相互滲透掩映，以達到鮮活的效果。](羅芙莉)
+@snapend
+
+@snap[east list-content-verbose span-40]
+<br>
+@ul[list-bullets-circles]
+- ...
+@ulend
+@snapend
+
+
+---
 - 倡導單純地以墨色作畫的技法，首創「破墨法」，趁墨色未乾時，將濃、淡墨互破，相互滲透掩映，以達到鮮活的效果。
 'mixing dilluted and saturated paint'
 po mo 'breaking the ink'
+- think the variance
 - pioneered scholars painting?
   - black and white, "breaking the brush"?
 
