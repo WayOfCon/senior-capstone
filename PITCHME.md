@@ -5,9 +5,10 @@
 @snapend
 
 @snap[south-west span-20]
-<h5>@css[text-black](Senior Capstone)</h5>
+<h4>@css[text-black](Senior Capstone)</h4>
 <br>
-<h6>@css[text-black](Conway Gilbreth)</h6>
+<br>
+<h4>@css[text-black](Conway Gilbreth)</h4>
 @snapend
 
 @snap[south-east span-20 text-black text-05]
