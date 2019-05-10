@@ -169,39 +169,39 @@ Note:
 
 
 ---
+# Poetry
 Wang wei exemplar
 
-- decided to focus on one person because tang dynasty not just about poetry
-  - complete oeuvre
-    - wang wei as a artist, poet, and the inseparable connection between the two
-      - pioneered scholars painting?
-        - black and white, "breaking the brush"?
+@ul[list-bullets-circles]
+- Wang Wei
+- poetry
+@ulend
+
+Note:
+
+- Knew he's my guy
+- love his poetry
+- but then I saw this
 
 
 ---
-art (wang wei)
+@snap[west span-50]
+template/img/wang-wei_snowy-stream (雪溪圖).jpg
+@snapend
 
-- probably more than one slide
+@snap[east span-50 text-white text-05]
+雪溪圖
+(Snowy Stream)
+@snapend
 
+Note:
 
----
-poetry (wang wei)
-
-
----
-difficulties in understanding/translating chinese classical poetry in general
-
-- needs probably a few slides
-
-
----
-looking at one or two specific poems and breaking them down, explaining difficulties along the way
-
-- a handful of slides per poem
+- fell in love with his art
 
 
 ---
-wrap-up
+- pioneered scholars painting?
+  - black and white, "breaking the brush"?
 
 
 +++?image=template/img/wang-wei_wangchuan.jpg&size=cover
