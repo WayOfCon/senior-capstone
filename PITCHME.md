@@ -214,6 +214,8 @@ Note:
 - **Technique**
 - 破墨
 - 'breaking the ink'
+- monochrome
+- wenrenhua
 @ulend
 @snapend
 
@@ -223,16 +225,10 @@ Note:
 - Pòmò
 - breaking the ink
 - ink wash technique
-- 'mixing dilluted and saturated paint' = texture
-
-
-
----
-- 倡導單純地以墨色作畫的技法，首創「破墨法」，趁墨色未乾時，將濃、淡墨互破，相互滲透掩映，以達到鮮活的效果。
-po mo 'breaking the ink'
-- think the variance
-- pioneered scholars painting?
-  - black and white, "breaking the brush"?
+- 'mixing dilluted and saturated paint' = texture, tonality
+- first to paint in monochrome
+- thinkining people art
+- wenrenhua (literati painting), 'man could not be a great painter unless he was also a scholar and gentleman.'
 
 
 +++?image=template/img/wang-wei_wangchuan.jpg&size=cover
@@ -245,22 +241,3 @@ po mo 'breaking the ink'
 
 ---?color=linear-gradient(to top, #ffb347, #ffcc33)
 # Questions?
-
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/about/PITCHME.md
