@@ -170,7 +170,6 @@ Note:
 
 ---
 # Poetry
-Wang wei exemplar
 
 @ul[list-bullets-circles]
 - Wang Wei
